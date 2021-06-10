@@ -1,7 +1,4 @@
+h2 { color:blue}
 ul { list-style-type: none; color:blue }
-h2 { color: blue; }
 ol { color:black}
-a:link { color: darkgreen; text-decoration: none }
-a:visited { color: red;}
-a:hover { color: darkviolet; font-weight: bold }
-a:active { color: yellowgreen; }
+a:link { text-decoration: none }
